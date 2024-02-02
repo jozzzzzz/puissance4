@@ -1,0 +1,32 @@
+#back {
+    background: blue;
+    width: 340px;
+    padding-left: 5px;
+}
+.cercle1 {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: red;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.cercle2 {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: yellow;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+.cercle3 {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background: gray;
+    margin-right: 5px;
+    margin-top: 5px;
+}
